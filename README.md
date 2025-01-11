@@ -21,7 +21,7 @@ Project Tasks**
 ## 4.	Homepage Interactions:
 	•	Retrieve and submit feedback.
 	•	Handle “Contact Us” form submissions.
-**Tools and Techniques**
+## **Tools and Techniques**
 
 	•	Postman: Dynamic variable management, collection runner, and API documentation exploration.
 	•	Dynamic Variables: Used for handling authentication tokens and email automation.
