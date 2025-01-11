@@ -21,6 +21,7 @@ Project Tasks**
 ## 4.	Homepage Interactions:
 	•	Retrieve and submit feedback.
 	•	Handle “Contact Us” form submissions.
+ 
 ## **Tools and Techniques**
 
 	•	Postman: Dynamic variable management, collection runner, and API documentation exploration.
@@ -31,8 +32,9 @@ Project Tasks**
 	•	Authentication: /register, /login, /password-reset
 	•	Categories: /medicines, /categories
 	•	Cart and Checkout: /cart, /checkout
-	•	Feedback: /user/profile/feedback, /homepage/contact-us
-**Results**
+	•	Feedback: /user/profile/feedback, /homepage/contact-us.
+ 
+## **Results**
 
 	•	Successfully tested all endpoints with automated validation.
 	•	Documented the API functionality for further development.
