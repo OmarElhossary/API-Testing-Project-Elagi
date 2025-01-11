@@ -1,8 +1,7 @@
 **ELAGI API Testing Project**
 Objective:
 
-**Testing the APIs of the ELAGI website using Postman to ensure functionality, reliability, and security.
-Project Tasks**
+**Testing the APIs of the ELAGI website using Postman to ensure functionality, reliability, and security.**
 
 ## 1.	Authentication:
 	•	User Registration: POST requests to register users and verify emails.
