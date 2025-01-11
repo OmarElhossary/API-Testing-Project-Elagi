@@ -1,4 +1,4 @@
-**ELAGI API Testing Project**
+### **ELAGI API Testing Project**
 Objective:
 
 **Testing the APIs of the ELAGI website using Postman to ensure functionality, reliability, and security.**
